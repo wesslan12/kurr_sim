@@ -310,7 +310,7 @@ if app_mode == "Simulation":
                 alt.Tooltip("Choice", title="Number of right swipes"),
             ]
 
-        ).properties(title="CHICKIIIES", width=160, height=100)
+        ).properties(title="Number of righ-swipes per dietary type (with/without matching cuisine)", width=160, height=100)
 
         st.altair_chart(bar_chart)
         ############################################################################################################
