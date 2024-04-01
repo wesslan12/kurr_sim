@@ -1,8 +1,8 @@
-altair
-matplotlib
-numpy
-pandas
-ydata-profiling
-plotly
-scikit_learn
+altair==4.2.0
+matplotlib==3.6.3
+numpy==1.24.4
+pandas==1.5.0
+pandas_profiling==3.6.3
+plotly==5.12.0
+scikit_learn==1.2.0
 streamlit
