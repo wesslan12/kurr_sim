@@ -2,7 +2,7 @@ altair
 matplotlib
 numpy
 pandas
-pandas_profiling
+ydata-profiling
 plotly
 scikit_learn
 streamlit
