@@ -1,3 +1,4 @@
 # An agent-based model of user interaction on the app 'Kurr'An agent-based model of user interaction on the app 'Kurr'
 ## Introduction
 Using AI-based recipe suggestions in a user-friendly app, the start-up company Kurr wants to make it easier for individuals to plan their cooking. The app works similarly to the Tinder dating app, but for recipes instead. Once individuals register on the app and specify their personal food preferences, Kurr puts out suggestions that the user either "swipe left" or "swipe right" (i.e., dislike or like). The recipes that are liked are then converted into shopping lists. In addition to making meal planning more manageable, a driving ambition for Kurr is to encourage and help users make more sustainable choices. By planning purchases and raising awareness of which foods are sustainable, waste can be reduced. Swiping on the app can be done solo or with others in a session.
+## 
